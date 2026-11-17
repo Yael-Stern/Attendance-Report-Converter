@@ -1,0 +1,14 @@
+.idea/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+attendance_parser/.venv/
+attendance_parser/.pytest_cache/
+attendance_parser/data/sample_reports/*
+!attendance_parser/data/sample_reports/.gitkeep
+attendance_parser/data/output_reports/*
+attendance_parser/data/text_cache/*
+
+קבצים להרצה/
